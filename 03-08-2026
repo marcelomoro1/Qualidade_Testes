@@ -27,6 +27,9 @@ Ferramentas de qualidade de software
 - O rdem mantida (Tudo que foi feito deve se manter)
 
 
-
+Engano -> Não foi proposital
+Defeito -> Defeito lógico, quando eu deixo de fazer coisas para chegar no cenário ideal do software
+Erro -> Quando a resposta gerada é diferente do esperado, era pra gerar 2.5 mas o sistema arrendodou para 2
+Falha -> Interrupção da execução do problema
 
 
