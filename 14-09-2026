@@ -1,0 +1,45 @@
+Qualidade de software em outros pontos de vista
+
+Garvin
+Visão transcendental, quando tu bate o olho e sabe que é bom
+Visão do usuário, se os requisitos estão sendo atendidos
+Visão do fabricante, define a qualidade pelas especificação original do produto
+Visão do produto, referente ao que ele consegue oferecer de funcionalidade
+Visão do valor, quanto mais querem pagar maior valor ele tem
+Visão de projeto, como ele foi organizado, as classes, a arquitetura
+
+Qualidade do desempenho -> software oferece tudo que está nos requisitos
+Conformidade -> segue as leis e padrões de software
+Facilidade de manutenção -> capacidade de manter o software dando atualizações
+Estética -> subjetivo
+Percepção -> preconceito sobre alguma coisa que pode afetar a qualidade
+Confiabilidade -> capacidade de operar sem falhas
+
+Pressman
+tem que gerar valor para quem produz e para quem é produzido
+
+McCall
+Revisão do Produto (manutenção)
+Transição do Produto (deploy)
+Operação do Produto (eficiencia)
+
+ISO 9126
+Funcionalidade -> satisfaz os requisitos
+Confiabilidade -> quanto menos erro mais confiavel
+Usabilidade -> quão facil é usar
+Eficiência -> otimização do uso dos recursos
+Facilidade de manutenção -> para realizar correções
+Portabilidade -> rodar em diferentes ambientes
+
+Fatores de Qualidade Desejados
+Intuição -> um novato consegue usar sem treinamento
+------------------------------------------------------
+
+SQA um conjunto de ferramentas para garantir qualidade do produto
+Revisão -> pessoas revisando o teu código para garantir estar nos conformes
+Treinamento -> qualificar o funcionario para gerar mais qualidade
+Auditoria -> garantir que o que foi cumprido está sendo feito
+Teste de software -> encontrar erros
+
+
+
