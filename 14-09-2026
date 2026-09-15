@@ -35,11 +35,15 @@ Fatores de Qualidade Desejados
 Intuição -> um novato consegue usar sem treinamento
 ------------------------------------------------------
 
-SQA um conjunto de ferramentas para garantir qualidade do produto
+SQA - Software Quality Assurance 
+um conjunto de ferramentas para garantir qualidade do produto
 Revisão -> pessoas revisando o teu código para garantir estar nos conformes
 Treinamento -> qualificar o funcionario para gerar mais qualidade
 Auditoria -> garantir que o que foi cumprido está sendo feito
 Teste de software -> encontrar erros
+Métricas -> Ver o quão bom ou ruim algo está
+Verificação e Validação (V&V) -> Conjunto de coisas para garantir que eu estou seguindo da maneira correta (revisões, padrões), e garantir que o software atende o que o cliente quer (testes de software)
+
 
 
 
