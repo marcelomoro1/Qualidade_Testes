@@ -1,0 +1,15 @@
+Email:
+1 - Teste de valido (existe no banco)
+2 - Teste se tem @
+3 - Teste se não tem SQL Injection
+4 - Teste de invalido (não existe no banco)
+
+Captcha:
+1 - Teste de valido
+2 - Teste de invalido
+
+Senha:
+1 - Teste de Regra de Negócio
+2 - Teste de valida
+3 - Teste de invalida
+
